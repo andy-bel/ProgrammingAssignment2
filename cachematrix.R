@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## andy-bel
+## R class assignment 2 computing inverse of a matrix or pulling it from cache if it was already computed
 
 ## Write a short comment describing this function
 
